@@ -1,2 +1,4 @@
 # hello-world
-Repo
+Repo-test
+#I am a network tech/engineer/admin;
+#I have written little bash scripts nothing major;
